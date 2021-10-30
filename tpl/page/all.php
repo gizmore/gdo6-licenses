@@ -2,9 +2,7 @@
 namespace GDO\Licenses\tpl\page;
 
 use GDO\Core\ModuleLoader;
-use GDO\UI\GDT_Card;
 use GDO\UI\GDT_Accordeon;
-use GDO\UI\GDT_Title;
 use GDO\UI\GDT_Pre;
 use GDO\UI\GDT_Headline;
 
